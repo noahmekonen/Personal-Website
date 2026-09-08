@@ -1,0 +1,119 @@
+body {
+    color: blue;
+    background-color: lightgray;
+    margin: 0;
+}
+
+main {
+    padding: 15px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.bottomimages {
+    display: flex;
+    justify-content: center;
+    gap: 200px;
+}
+
+p {
+    color: black;
+    font-size: larger;
+}
+
+a {
+    color: white;
+    text-decoration-color: lightblue;
+}
+
+header {
+    font-size: 15px;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 600px;
+    background-color: darkblue;
+    color: white;
+    border-bottom: 4px #60a5fa solid;
+    padding: 10px;
+}
+
+nav {
+    font-size: 40px;
+    display: flex;
+    gap: 100px;
+}
+
+.image-text {
+    font-size: 30px;
+    display: flex;
+    gap: 30px;
+    align-items: flex-start;
+    margin: 20px;
+}
+
+#interestspara {
+    border-bottom: 1px black solid;
+    padding-bottom: 20px;
+    margin-bottom: 50px;
+}
+
+li {
+    font-size: 30px;
+    margin-bottom: 40px;
+}
+
+strong a {
+    color: black;
+    text-decoration-color: black;
+    font-weight: bold;
+    text-decoration-thickness: 2px;
+}
+
+#aboutme {
+    font-size: 30px;
+}
+
+main h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+main h2 {
+    text-align: center;
+    font-size: 50px;
+}
+
+#contact {
+    min-height: 1300px;
+    text-align: center;
+    font-size: 40px;
+    background-image: url("images/uwfountain.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#border {
+    background-color: white;
+    border: 2px black solid;
+    width: 600px;
+    padding: 20px;
+    margin: 0 auto;
+}
+
+.contact-text {
+    color: black;
+    text-decoration-color: black;
+}
+
+#interestspage p {
+    font-size: 30px;
+}
+
+footer p {
+    border-top: 2px black solid;
+    font-size: 15px;
+}
